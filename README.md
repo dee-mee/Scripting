@@ -17,7 +17,7 @@ A realistic terminal-based hacking simulator with procedural missions, ethical c
 
 ```bash
 # 1. Download the game
-curl -O https://raw.githubusercontent.com/yourusername/black-terminal/main/black_terminal.sh
+[curl -O https://raw.githubusercontent.com/yourusername/black-terminal/main/black_terminal.sh](https://github.com/dee-mee/Scripting.git)
 
 # 2. Make executable
 chmod +x black_terminal.sh
