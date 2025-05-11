@@ -1,6 +1,6 @@
 # 🕶️ BLACK TERMINAL - Terminal Hacking Simulator
+![image](https://github.com/user-attachments/assets/fdc9d017-7d7b-44c9-b0d6-677e1acb60dc)
 
-![Game Banner](https://i.imgur.com/JKvQw7E.png) *(example banner image)*
 
 A realistic terminal-based hacking simulator with procedural missions, ethical choices, and authentic command-line gameplay. Built entirely in Bash.
 
